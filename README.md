@@ -1,0 +1,3 @@
+# F# Mutability and Immutability Bug
+
+This repository demonstrates a common error in F# related to mutability and immutability. The code shows two versions of a swap function.  The first version correctly swaps mutable variables. The second version incorrectly attempts to swap immutable variables, resulting in a compiler error. This highlights the importance of understanding the difference between mutable and immutable variables in F#.
